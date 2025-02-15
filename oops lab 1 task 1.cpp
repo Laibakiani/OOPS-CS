@@ -1,4 +1,4 @@
-// laiba
+// comments
 #include<iostream>
 using namespace std;
 double kilo(double kilometers)
